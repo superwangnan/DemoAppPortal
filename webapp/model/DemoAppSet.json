@@ -3,11 +3,11 @@
 		"id": "a",
 		"name": "10323_en Develop Fiori application with SAP Web IDE",
 		"desc": "SAP Web IDE is the next-generation cloud-based meeting space where multiple project stakeholders can work together from a common web interface In this scenario we will see how to setup your own development environment with SAP Web IDE on the SAP HANA Cloud Platform. Step by Step guide can be found in the attached scripts.  ",
-		"URL": "../10323_en/start_demo.html"
+		"URL": "../../10323_en/start_demo.html"
 	}, {
 		"id": "b",
 		"name": "10323_en Develop Fiori application with SAP Web IDE",
 		"desc": "SAP Web IDE is the next-generation cloud-based meeting space where multiple project stakeholders can work together from a common web interface In this scenario we will see how to setup your own development environment with SAP Web IDE on the SAP HANA Cloud Platform. Step by Step guide can be found in the attached scripts.  ",
-		"URL": "../10323_en/start_demo.html"
+		"URL": "../../10323_en/start_demo.html"
 	}]
 }
