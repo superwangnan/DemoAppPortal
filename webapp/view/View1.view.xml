@@ -1,0 +1,15 @@
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="QuickStartApplication.controller.View1">
+	<App>
+		<pages>
+			<Page title="Your Quick Start application is ready!">
+			<content>
+			    <List noDataText="Drop list items here" id="__list0" inset="true" rememberSelections="false" itemPress="" items="{/DemoAppSet}">
+			    <items>
+			        <FeedListItem counter="0" icon="sap-icon://personnel-view" text="{desc}" info="{name}" maxCharacters="0" id="__item3" press="onPress" type="Active"/>
+			    </items>
+			    </List>
+			</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
