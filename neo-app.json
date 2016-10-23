@@ -11,6 +11,15 @@
       "description": "SAPUI5 Resources"
     },
     {
+      "path": "/sdk/resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "entryPath": "/resources"
+      },
+      "description": "SAPUI5 Resources"
+    },
+    {
       "path": "/test-resources",
       "target": {
         "type": "service",
