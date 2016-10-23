@@ -1,7 +1,7 @@
 <mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="QuickStartApplication.controller.View1">
 	<App>
 		<pages>
-			<Page title="Your Quick Start application is ready!">
+			<Page title="演示程序">
 			<content>
 			    <List noDataText="Drop list items here" id="__list0" inset="true" rememberSelections="false" itemPress="" items="{/DemoAppSet}">
 			    <items>

@@ -2,12 +2,22 @@
 	"DemoAppSet": [{
 		"id": "a",
 		"name": "10323_en Develop Fiori application with SAP Web IDE",
-		"desc": "SAP Web IDE is the next-generation cloud-based meeting space where multiple project stakeholders can work together from a common web interface In this scenario we will see how to setup your own development environment with SAP Web IDE on the SAP HANA Cloud Platform. Step by Step guide can be found in the attached scripts.  ",
-		"URL": "../../10323_en/start_demo.html"
+		"desc": "WebIDE 是SAP下一代应用开发工具，演示使用WEBIDE开发应用程序的过程.（2016.10.22 更新）",
+		"URL": "/10323_en/start_demo.html"
 	}, {
 		"id": "b",
-		"name": "10323_en Develop Fiori application with SAP Web IDE",
-		"desc": "SAP Web IDE is the next-generation cloud-based meeting space where multiple project stakeholders can work together from a common web interface In this scenario we will see how to setup your own development environment with SAP Web IDE on the SAP HANA Cloud Platform. Step by Step guide can be found in the attached scripts.  ",
-		"URL": "../../10323_en/start_demo.html"
+		"name": "12528_en UX prototyping and user studies with Splash, Build and HCP",
+		"desc": "用户体验是SAP主要的发展策略，通过Design Thinking + BUILD + WEBIDE 开发应用程序的完整过程。（2016.10.22 更新）",
+		"URL": "/12528_en/start_demo.html"
+	}, {
+		"id": "c",
+		"name": "SAPUI5 开发库演示",
+		"desc": "SAP UI5是SAP下一代用户体验的关键组件，此演示显示大量SAPUI5支持的控件及效果。（2016.10.22 更新）",
+		"URL": "/sdk/explored.html"
+	}, {
+		"id": "d",
+		"name": "SAPUI5 开发文档",
+		"desc": "演示SAPUI5主要开发能力（2016.10.22 更新）",
+		"URL": "/sdk"
 	}]
 }
